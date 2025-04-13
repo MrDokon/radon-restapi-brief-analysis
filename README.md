@@ -14,7 +14,7 @@ For more information and to access the API, you can visit the official documenta
 
 Duration of promotion proceedings for awarding the post-doctoral degree across various fields and scientific disciplines in Poland. The duration is expressed in number of days. Own elaboration in Polish based on data from the RAD-on platform API as of May 18, 2023.
 
-![sample analysis1](Duration of promotion procedures for the post-doctoral degree.png)
+![Duration of promotion procedures for the post-doctoral degree](Duration of promotion procedures for the post-doctoral degree.png)
 
 The fields of social sciences and humanities are characterized by the longest duration of proceedings for awarding the post-doctoral degree. An interesting result concerns the field of agricultural sciences. The disciplines within this field are characterized by clearly the shortest duration of promotion proceedings.
 
@@ -22,7 +22,7 @@ The fields of social sciences and humanities are characterized by the longest du
 
 Duration of promotion proceedings for awarding the degrees of PhD, post-doctoral degree, and the title of professor. The duration is expressed in number of days. Own elaboration based on data on promotion proceedings with 'correct' status from the RAD-on platform API
 
-![sample analysis2](Duration of promotion procedures in Poland Duration of promotion procedures.png)
+![Duration of promotion procedures in Poland Duration of promotion procedures](Duration of promotion procedures in Poland Duration of promotion procedures.png)
 
 The duration of promotion proceedings for the PhD degree varies greatly, and attempting to describe it using the average alone is inaccurate. The shortest proceeding (resulting in the degree being awarded) lasted 42 days, while the longest took nearly four years (1,295 days). The median is significantly lower than the average and amounts to 322 days. This indicates a high degree of uncertainty when trying to determine the exact duration of a proceeding, but in half of the cases, a decision was made within 322 days.
 
@@ -34,7 +34,7 @@ Proceedings for awarding the title of professor are the most concentrated around
 
 The number of initiated promotion proceedings from 2019 to 2023 for the PhD degree, post-doctoral degree, and the title of professor. Own elaboration using R language tools and data from the RAD-on platform API. Proceedings with 'correct' and 'incorrect' status
 
-![sample analysis3](Duration of promotion procedures in Poland Duration of promotion procedures.png)
+![Duration of promotion procedures in Poland Duration of promotion procedures](Duration of promotion procedures in Poland Duration of promotion procedures.png)
 
 There is a noticeable difference in the monthly distribution of initiated promotion proceedings between data with “correct” and “incorrect” status.
 
