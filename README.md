@@ -8,4 +8,4 @@ The repository contains selected charts from the analysis presented in my bachel
 
 This API enables users to retrieve data on various aspects such as universities, research institutions, academic staff, students, and scientific activities. By utilizing standard HTTP methods and returning data in formats like JSON, it facilitates integration with applications and supports analytical endeavors.​
 
-For more information and to access the API, you can visit the official documentation page: RAD-on API Documentation.
+For more information and to access the API, you can visit the official documentation page: [RAD-on API Documentation](https://radon.nauka.gov.pl/api/katalog-udostepniania-danych).
