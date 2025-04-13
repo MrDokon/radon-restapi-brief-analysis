@@ -48,4 +48,4 @@ This analysis of promotion proceedings suggests that the most recent data in the
 
 ### Poland is doing very well in the field of open data in higher education.
 
-The RAD-on services provide freedom in selecting analytical tools to solve problems. Performing independent analyses, comfortably expanding their scope with new data, verifying publicly available information, and discovering interesting facts that serve as a basis for further research are the main ways of utilizing the provided interface. The RAD-on REST API and the possibilities it offers for data analysis were ultimately evaluated very positively in this work.
+The RAD-on services provide freedom in selecting analytical tools to solve problems. Performing independent analyses, comfortably expanding their scope with new data, verifying publicly available information, and discovering interesting facts that serve as a basis for further research are the main ways of utilizing the provided interface. The RAD-on REST API and the possibilities it offers for data analysis.
