@@ -1,7 +1,7 @@
 # Brief analysis of RAD-on REST API Selected Resources
 
-The repository contains selected charts from the analysis presented in my bachelor's thesis on RAD on REST APIs.
-The goal is to showcase my analytical skills by presenting the outputs of my [work](https://apd.polsl.pl/diplomas/14674/). 
+The repository contains selected charts from my analysis on RAD-on REST API.
+The goal is to showcase my analytical skills by presenting the outputs of my work.
 Tech stack: **R lang, tidyverse**
 
 ### RAD-on REST API
